@@ -52,7 +52,7 @@ Video Card: Direct 3D9 Compatible
 
 #### Access the Releases ####
 
-The latest stable releases can be accessed at >  http://github.com/katriellucas/lecarde-2/releases
+The latest stable releases can be accessed at >  https://github.com/AceChronicles93/lecarde-chronicles-2/releases
 
 #### Read this if you encountered random crash exit when pausing #### 
 
