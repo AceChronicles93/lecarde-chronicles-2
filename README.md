@@ -151,7 +151,7 @@ when the project was still in control of the previous editor, so that a future e
 `CHANGED` - Control config: Because the auto check did not really work on steam bigscreen mode if add the game as non-steam game, 
 disabled and repurposed the auto check as a failsafe so that XBOX controller label will be detected if the initialization somehow failed or setting unidentified.  (Aceearly1993)  
 `HOTFIX` -  A bug in the last commit of 1.6.8 which causes sub menu graphic of "EXTRA" section in main menu to be corrupted.   (Aceearly1993)  
-
+`HOTFIX` -  Global interface: A typo with various instances which used the incorrect term "strenght".   (RainbowHype)  
 
 #### [1.6.8] - 2026/10/16 #### 
 
